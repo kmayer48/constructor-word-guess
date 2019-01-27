@@ -13,7 +13,7 @@ var word;
 var pickedWord;
 
 console.log("\n--------------------------------------------------------------------------------------------------------------------------------------------\n" +
-    "\nLet's see how well you know your Greek mythology!. Guess the name of the Greek god/godess. Hope you paid attention in history class! \n" +
+    "\nLet's see how well you know your Greek mythology!. Guess the name of the Greek god/goddess. Hope you paid attention in history class! \n" +
     "\n--------------------------------------------------------------------------------------------------------------------------------------------\n");
 
 // Start game function.
